@@ -1,6 +1,6 @@
 #This is a projects sends automatic email to employees of the company having their birthday.
 #The code will wake up, connect to database, check if there is any birthday or not,
-#if there is, it will send the email from abc@gmail.com.
+#if there is, it will send the email from def@yahoo.com.
 #it will then sleep for 1 day. Again wake up and continue..
 
 
